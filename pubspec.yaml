@@ -1,0 +1,6 @@
+name: Ascent
+description: A game for the 7DRL Challgen 2013
+author: Dennis.Kaselow+7drl@gmail.com
+dependencies:
+  browser: 0.4.1
+  dartemis: 0.3.2

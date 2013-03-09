@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+
+canvas {
+  display: block;
+  margin: 0px auto;
+}
+
+canvas#gamecontainer {
+  width: 800px;
+  height: 600px;
+}
